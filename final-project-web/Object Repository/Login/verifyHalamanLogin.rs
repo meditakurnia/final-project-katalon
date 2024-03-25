@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>verifyHalamanLogin</name>
+   <tag></tag>
+   <elementGuidId>0fa806eb-b0dc-4d0c-ab00-a7d8db3fe3df</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='um_field_298_username']/div/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.um-field-label > label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>e619744a-0bbc-44c8-81d9-520eef597329</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>username-298</value>
+      <webElementGuid>aeca0f26-e27f-4517-a095-1c5bf4eb6e43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Username or E-mail</value>
+      <webElementGuid>6a4dc326-2f17-4ece-b0e8-d2fa3390557a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;um_field_298_username&quot;)/div[@class=&quot;um-field-label&quot;]/label[1]</value>
+      <webElementGuid>d35162f3-d802-4705-a934-e014c5e1ea2c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='um_field_298_username']/div/label</value>
+      <webElementGuid>f81f7af6-faad-4a83-aad5-226a1a0c5050</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[4]/following::label[1]</value>
+      <webElementGuid>1c7a2778-b9c0-47cb-99f7-16b1d76467f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[1]/following::label[1]</value>
+      <webElementGuid>9d14b74d-a0c1-401f-bf01-df0343d7cf3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/preceding::label[1]</value>
+      <webElementGuid>cd271596-4a1a-4f1d-8123-a8da69aed59b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Only fill in if you are not human'])[1]/preceding::label[2]</value>
+      <webElementGuid>49f5cabd-34a8-441e-a0b5-527adc2d68fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Username or E-mail']/parent::*</value>
+      <webElementGuid>fdcc789a-df5f-49b9-a51c-29bb06be3808</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/label</value>
+      <webElementGuid>41b94142-11f8-4bc7-8939-2d76aa128966</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Username or E-mail' or . = 'Username or E-mail')]</value>
+      <webElementGuid>cf06cc2d-acc3-4ccb-a34a-8709df729290</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

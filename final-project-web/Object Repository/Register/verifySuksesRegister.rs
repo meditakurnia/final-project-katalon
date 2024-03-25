@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>verifySuksesRegister</name>
+   <tag></tag>
+   <elementGuidId>4b495a78-6707-4e9d-bb05-4243a0bd6bb5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//article[@id='post-55']/div/div/div/p[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>98c12fdc-e810-4cd7-a508-e833aeccfa28</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+	From your account dashboard you can view your recent orders, manage your shipping and billing addresses, and edit your password and account details.</value>
+      <webElementGuid>7f987721-a617-46b4-8142-5f5c510638a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post-55&quot;)/div[@class=&quot;entry-content&quot;]/div[@class=&quot;woocommerce&quot;]/div[@class=&quot;woocommerce-MyAccount-content&quot;]/p[2]</value>
+      <webElementGuid>b741ada7-a5f5-4c26-9ba8-d1765a41479c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//article[@id='post-55']/div/div/div/p[2]</value>
+      <webElementGuid>a281c13e-1cb3-4263-a64e-64b56bb745c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log out'])[1]/following::p[1]</value>
+      <webElementGuid>18d9b8e1-53ae-4629-8749-0b2520df1e2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[1]/following::p[2]</value>
+      <webElementGuid>b6f8b636-4282-4337-ac4a-71335ffeaf2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='From your account dashboard you can view your']/parent::*</value>
+      <webElementGuid>2baf608d-5ac2-41d1-93be-eddcedb6a3a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[2]</value>
+      <webElementGuid>2e379331-c13e-4267-9ed1-12be5381a317</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = '
+	From your account dashboard you can view your recent orders, manage your shipping and billing addresses, and edit your password and account details.' or . = '
+	From your account dashboard you can view your recent orders, manage your shipping and billing addresses, and edit your password and account details.')]</value>
+      <webElementGuid>6278e77f-2be2-42a8-8d5e-0787d5483e63</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>verifyValidasiLogin</name>
+   <tag></tag>
+   <elementGuidId>ea115596-14cf-4ed4-bb62-09c4fc2bbc1e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='um_field_298_username']/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.um-field-error</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a2acdbd2-6b79-46d9-a4a1-2a8c9716f3cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>um-field-error</value>
+      <webElementGuid>bbd8235b-8f8a-43fc-9d0b-8112f08bc5ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Please enter your username or email</value>
+      <webElementGuid>fe893ab3-3943-4220-aaf9-7753a00ad73e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;um_field_298_username&quot;)/div[@class=&quot;um-field-error&quot;]</value>
+      <webElementGuid>db73a44d-2e80-42c9-9e62-02f1aebd3851</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='um_field_298_username']/div[3]</value>
+      <webElementGuid>0580d974-0327-4a5d-9ca1-179e3306f61e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Username or E-mail'])[1]/following::div[3]</value>
+      <webElementGuid>7b23eafb-510a-45e7-b3c4-f212d83003f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[4]/following::div[10]</value>
+      <webElementGuid>991503c8-82aa-4b88-9e95-e0346527c1d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/preceding::div[1]</value>
+      <webElementGuid>08361749-f95d-41d5-b9ba-4b58edc09943</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please enter your password'])[1]/preceding::div[4]</value>
+      <webElementGuid>3b1845fa-6a3b-44f6-b261-ff4894488c3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Please enter your username or email']/parent::*</value>
+      <webElementGuid>5a24fb97-393c-4201-8aaa-76a945605478</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//article/div/div/div/form/div/div/div/div[3]</value>
+      <webElementGuid>05ee75bd-929c-4380-b440-742ab2086675</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Please enter your username or email' or . = 'Please enter your username or email')]</value>
+      <webElementGuid>3619e887-3071-4b50-9bca-bb88e14aa21b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

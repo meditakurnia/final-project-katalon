@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Negatif - Email tidak sesuai format</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5c2d32ff-5090-434b-9c9b-37fa9fc5341f</testCaseGuid>
+</TestCaseEntity>

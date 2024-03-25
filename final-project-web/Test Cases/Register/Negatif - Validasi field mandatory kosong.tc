@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Negatif - Validasi field mandatory kosong</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f887d497-c5b1-4d2d-bacb-30f3b580a2bc</testCaseGuid>
+</TestCaseEntity>

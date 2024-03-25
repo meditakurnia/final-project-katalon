@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Negatif - Field Mandatory Data Pemesanan Kosong</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a418903d-ba4d-4192-8614-e1828861882a</testCaseGuid>
+</TestCaseEntity>

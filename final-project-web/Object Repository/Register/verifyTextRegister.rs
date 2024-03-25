@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>verifyTextRegister</name>
+   <tag></tag>
+   <elementGuidId>ebba831f-43a8-4187-8892-f2c076fea63c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//article[@id='post-301']/header/h1</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h1.entry-title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>216f2839-c3c8-49a0-af28-6424affe5bd0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>entry-title</value>
+      <webElementGuid>0c1ae214-4363-47bc-88f5-ed3979095bca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Register Now</value>
+      <webElementGuid>acc2f53b-93ae-4d4c-9c73-b6aeb4345a4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post-301&quot;)/header[@class=&quot;entry-header&quot;]/h1[@class=&quot;entry-title&quot;]</value>
+      <webElementGuid>29b4335e-f213-48a4-94b4-1f31dd7360a1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//article[@id='post-301']/header/h1</value>
+      <webElementGuid>69d878aa-3cb7-40c9-810d-7f359506855d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[1]/following::h1[1]</value>
+      <webElementGuid>65a65828-3ce0-4e5e-8f37-77e47e458908</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search for:'])[1]/following::h1[1]</value>
+      <webElementGuid>e04b18d8-f6a1-415e-bfb4-eb4a7d97c1b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Username'])[1]/preceding::h1[1]</value>
+      <webElementGuid>e862ccb1-67c5-4168-b3ec-4700a22a1f20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='E-mail Address'])[1]/preceding::h1[1]</value>
+      <webElementGuid>9c9de9b2-d2f2-477e-95f9-16aa4e6187f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>7e931df5-ce98-4afb-b5d4-0200de785e1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Register Now' or . = 'Register Now')]</value>
+      <webElementGuid>54be5e9a-51b6-4800-8e3a-d5ca496f62db</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>buttonHome</name>
+   <tag></tag>
+   <elementGuidId>5986c0fa-96e8-40ba-b068-844e37b7f99a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='menu-item-210']/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>87af25a2-76e0-46ad-97f4-89b18eb06eb6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Home</value>
+      <webElementGuid>c0cf8378-4bd0-4cb1-9684-74ee1e96e8b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu-item-210&quot;)/a[1]/span[1]</value>
+      <webElementGuid>abb7c0d3-a00c-4472-934a-d5d551eec601</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='menu-item-210']/a/span</value>
+      <webElementGuid>ecebb5ed-632d-42cd-845c-d21664dece1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cart'])[1]/following::span[1]</value>
+      <webElementGuid>d36cf15d-25b9-45f6-b605-e4cda61e0024</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp'])[3]/following::span[1]</value>
+      <webElementGuid>bb7fc910-fc16-40ac-88a1-c5ac86cd2552</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shop'])[1]/preceding::span[1]</value>
+      <webElementGuid>51322ec5-b2ea-40a1-89a8-ca0a8fad07b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='About Us'])[1]/preceding::span[2]</value>
+      <webElementGuid>8c32d608-97ca-46e9-a096-669736ebfe88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Home']/parent::*</value>
+      <webElementGuid>da5a31ca-cd8c-423e-bd05-2aa30659c2ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/span</value>
+      <webElementGuid>2651e9b4-2a4b-49c8-b954-ee62c95e36db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Home' or . = 'Home')]</value>
+      <webElementGuid>c7cb1c38-bf77-46f7-8373-24e9fe87a5e2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
